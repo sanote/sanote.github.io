@@ -1,0 +1,56 @@
+p {
+  line-height: 1.6; }
+
+a {
+  color: #333;
+  text-decoration: none; }
+
+a:hover {
+  text-decoration: underline; }
+
+.container {
+  max-width: 600px; }
+
+article.cards img.image {
+  width: 100%;
+  margin-bottom: 7px; }
+
+article.cards img.image.person, article.cards img.image.theme {
+  max-width: 600px; }
+
+article.cards img.image.cases {
+  max-width: 120px; }
+
+article.cards img.image.policies, article.cards img.image.issues {
+  max-width: 300px; }
+
+article.cards ul.lbox {
+  width: 100%;
+  max-width: 600px;
+  margin: 0;
+  padding: 0; }
+
+article.cards ul.lbox li {
+  float: left;
+  list-style: none;
+  line-height: 1; }
+
+article.cards ul.lbox li img {
+  display: block;
+  width: 100%; }
+
+article.cards ul.cases.lbox li {
+  width: 20%; }
+
+article.cards ul.policies.lbox li, article.cards ul.issues.lbox li {
+  width: 50%; }
+
+article.cards div.line {
+  float: left;
+  width: 100%;
+  max-width: 600px;
+  height: 7px; }
+
+article.cards #info {
+  float: left;
+  margin-bottom: 50px; }

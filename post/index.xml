@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 윤새노트 웹툰뉴스</title>
+    <link>https://sanote.github.io/post/</link>
+    <description>Recent content in Posts on 윤새노트 웹툰뉴스</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 15 Mar 2019 10:31:21 +0900</lastBuildDate>
+    
+	<atom:link href="https://sanote.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://sanote.github.io/post/hello/</link>
+      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
+      
+      <guid>https://sanote.github.io/post/hello/</guid>
+      <description>사이트 개편중 입니다. ^^*</description>
+    </item>
+    
+  </channel>
+</rss>

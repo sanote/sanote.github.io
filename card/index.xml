@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>윤새노트 웹툰뉴스</title>
-    <link>https://sanote.github.io/</link>
-    <description>Recent content on 윤새노트 웹툰뉴스</description>
+    <title>Cards on 윤새노트 웹툰뉴스</title>
+    <link>https://sanote.github.io/card/</link>
+    <description>Recent content in Cards on 윤새노트 웹툰뉴스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Fri, 15 Mar 2019 10:31:21 +0900</lastBuildDate>
     
-	<atom:link href="https://sanote.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sanote.github.io/card/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,24 +18,6 @@
       
       <guid>https://sanote.github.io/card/2019-by-election/</guid>
       <description>2019년 4.3. 재보궐선거 안내입니다.</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
-      <link>https://sanote.github.io/post/hello/</link>
-      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
-      
-      <guid>https://sanote.github.io/post/hello/</guid>
-      <description>사이트 개편중 입니다. ^^*</description>
-    </item>
-    
-    <item>
-      <title>윤새노트 사이트 소개</title>
-      <link>https://sanote.github.io/about/</link>
-      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
-      
-      <guid>https://sanote.github.io/about/</guid>
-      <description>사이트를 소개합니다.</description>
     </item>
     
     <item>

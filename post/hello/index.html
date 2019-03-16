@@ -1,21 +1,125 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
   <head>
     <meta charset="utf-8">
-    <title>
-&lt;!-- This will override the default value set in baseof.html; i.e., "윤새노트 웹툰뉴스" in the original example-->
-Hello &ndash; 윤새노트 웹툰뉴스
-</title>
-    </head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1" />
+    <meta name="viewport" content="user-scalable=yes, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, width=device-width">
+  
+    <meta name="title" content="윤새노트 웹툰뉴스" />
+    <meta name="description" Content="정치를 잘못 바라보고 지지하지 않도록 바람직한 방법을 모색하여 바꿔가는 캠페인 웹툰 및 방송 사이트입니다." />
+  
+    <meta name="apple-mobile-web-app-title" content="YunSanote">
+    
+    
+    <meta name="naver-site-verification" content="e21da219cd15a91e81f9916bacef23ed15566337"/>
+    
+    <meta name="google-site-verification" content="ghcd2PstkyunK2wfTWLZGIgjaRptsulhy6XoY-zwkRU" />
+    
+    <meta name="msvalidate.01" content="929DF2AC65D145B97FADBEFFC5590827" />
+    
+    <meta name="p:domain_verify" content="937dbb1b7f237a39c8a503467a73c337"/>
+
+    <title>윤새노트 웹툰뉴스</title>
+    <link rel="canonical" href="https://sanote.github.io/post/hello/" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    
+    
+    <link rel="stylesheet" href="https://sanote.github.io/scss/main.min.e58abbd53586b412acc18ba0230a19d4b151de85df46f4d28fbfcdf9f74be424.css" media="screen">
+  
+    
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-1809857061058177",
+        enable_page_level_ads: true
+      });
+    </script>    
+  </head>
   <body>
     
+  <style>
+  .top-bar {
+    padding: .5rem;
+    border-bottom: 2px solid #101730;
+  }
+  .top-bar:after { clear: both; content: ' '; display: table; }
+  .top-bar:before { content: ' '; display: table; }
+  .top-bar, .top-bar a, .site-hamburger  {
+    color: #333;
+    padding: 5px;
+  }
+  .top-bar a:hover {
+    text-decoration: none;
+    color: #2199e8;
+  }
+  .top-bar-title { padding: 10px 5px; line-height: 1; margin-right: 15px; }
+  .top-bar-title a, .site-hamburger { font-weight: bold; }
+  .top-bar-title, .top-bar-left { float: left; }
+  .top-bar-left ul { margin: 0; padding: 0; list-style: none; line-height: 1.6; }
+  .top-bar-left li { display: table-cell; }
+  .top-bar-left li a { display: block; padding: 10px 7px; line-height: 1; }
+
+  .site-hamburger { float: left; font-size: 16px; padding: 10px 8px; margin: 0 6px; line-height: 1.6; display: none; }
+
+  @media screen and (max-width:768px) { 
+    .top-bar-left { clear: both; margin: 7px 15px; display: none; }
+    .top-bar-left li, .site-hamburger { display: block; }
+  }
+</style>
+
+<header>
+  <nav>
+    <div class="top-bar">
+      <a class="site-hamburger" href="javascript:;">M</a>
+      <div class="top-bar-title">
+          <a href="https://sanote.github.io/">윤새노트 웹툰뉴스</a>
+      </div>
+      <div class="top-bar-left">
+        <ul>
+            <li><a href="/card">#테마카드</a></li>
+            <li><a href="/post">#글정리</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function(event) { 
+    var menu = document.querySelector('.top-bar-left');
+    document.querySelector('.site-hamburger').onclick = function() {
+      console.log(menu.style.display);
+      if (menu.style.display == 'block') {
+        menu.style.display = 'none';
+      } else {
+        menu.style.display = 'block';
+      }
+    }
+
+    window.addEventListener('resize', function() { 
+      winWidth = window.innerWidth || document.documentElement.clientWidth;
+      if(winWidth >= 768 && menu.style.display == 'none') menu.style.display = 'block';
+      else if(winWidth < 768 && menu.style.display == 'block') menu.style.display = 'none';
+    });
+  });
+</script>
+  
+
+
+
+
+
+
     
-<h1>Hello</h1>
+<h1>사이트 진행중입니다.</h1>
 <p>사이트 개편중 입니다. ^^*</p>
 
+<p>아직 수많은 작업이 남아있으나 뭐가 급한지 몰라 그냥 오픈하고 작업합니다.<br />
+카드 페이지를 좀더 깔끔하게 보여드리려고 자유롭게 사용가능한 페이지로 이동한 것이니 이해 부탁드려요. ^^*</p>
+
 
     
-    
+
     
   </body>
 </html>

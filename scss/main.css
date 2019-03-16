@@ -12,6 +12,7 @@ ul, ol {
   padding-left: 30px; }
 
 .container {
+<<<<<<< HEAD
   max-width: 100%; }
 
 article.cards img.image {
@@ -25,10 +26,26 @@ article.cards img.image.case {
   max-width: 120px; }
 
 article.cards img.image.policy, article.cards img.image.issue {
+=======
+  max-width: 600px; }
+
+article.cards img.image {
+  width: 100%;
+  margin-bottom: 7px; }
+
+article.cards img.image.person, article.cards img.image.theme {
+  max-width: 600px; }
+
+article.cards img.image.cases {
+  max-width: 120px; }
+
+article.cards img.image.policies, article.cards img.image.issues {
+>>>>>>> ecf7b270adec030f3f49fa6c90bda4a82933bd0b
   max-width: 300px; }
 
 article.cards ul.lbox {
   width: 100%;
+<<<<<<< HEAD
   max-width: 100%;
   margin: 0;
   padding: 0; }
@@ -48,19 +65,46 @@ article.cards ul.cases.lbox li {
 
 article.cards ul.policies.lbox li, article.cards ul.issues.lbox li {
   max-width: 300px; }
+=======
+  max-width: 600px;
+  margin: 0;
+  padding: 0; }
+
+article.cards ul.lbox li {
+  float: left;
+  list-style: none;
+  line-height: 1; }
+
+article.cards ul.lbox li img {
+  display: block;
+  width: 100%; }
+
+article.cards ul.cases.lbox li {
+  width: 20%; }
+
+article.cards ul.policies.lbox li, article.cards ul.issues.lbox li {
+  width: 50%; }
+>>>>>>> ecf7b270adec030f3f49fa6c90bda4a82933bd0b
 
 article.cards div.line {
   float: left;
   width: 100%;
+<<<<<<< HEAD
   max-width: 100%;
+=======
+  max-width: 600px;
+>>>>>>> ecf7b270adec030f3f49fa6c90bda4a82933bd0b
   height: 7px; }
 
 article.cards #info {
   float: left;
   margin-bottom: 50px; }
+<<<<<<< HEAD
 
 @media screen and (max-width: 768px) {
   ul.cases.lbox li {
     width: 20%; }
   ul.policies.lbox li, ul.issues.lbox li {
     width: 50%; } }
+=======
+>>>>>>> ecf7b270adec030f3f49fa6c90bda4a82933bd0b

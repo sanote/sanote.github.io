@@ -36,10 +36,32 @@
       
       <guid>https://sanote.github.io/card/policy/youtube/</guid>
       <description></description>
+=======
+      <description>2019년 4.3. 재보궐선거 안내입니다.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://sanote.github.io/post/hello/</link>
+      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
+      
+      <guid>https://sanote.github.io/post/hello/</guid>
+      <description>사이트 개편중 입니다. ^^*</description>
+    </item>
+    
+    <item>
+      <title>윤새노트 사이트 소개</title>
+      <link>https://sanote.github.io/about/</link>
+      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
+      
+      <guid>https://sanote.github.io/about/</guid>
+      <description>사이트를 소개합니다.</description>
+>>>>>>> ecf7b270adec030f3f49fa6c90bda4a82933bd0b
     </item>
     
     <item>
       <title>이재명</title>
+<<<<<<< HEAD
       <link>https://sanote.github.io/card/person/jaemung64/</link>
       <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
       
@@ -58,5 +80,14 @@
 전국에서 쓰이는 온누리상품권 정책과는 별도의 정책카드입니다.</description>
     </item>
     
+=======
+      <link>https://sanote.github.io/card/people/jaemung64/</link>
+      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
+      
+      <guid>https://sanote.github.io/card/people/jaemung64/</guid>
+      <description></description>
+    </item>
+    
+>>>>>>> ecf7b270adec030f3f49fa6c90bda4a82933bd0b
   </channel>
 </rss>

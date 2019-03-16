@@ -3,17 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://sanote.github.io/card/2019-by-election/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanote.github.io/card/case/biri/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanote.github.io/card/policy/youtube/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanote.github.io/card/person/jaemung64/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanote.github.io/card/policy/moneypaper/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://sanote.github.io/card/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://sanote.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanote.github.io/tags/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://sanote.github.io/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   

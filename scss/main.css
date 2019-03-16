@@ -2,7 +2,7 @@ p {
   line-height: 1.6; }
 
 a {
-  color: #333;
+  color: #00c;
   text-decoration: none; }
 
 a:hover {
@@ -14,18 +14,14 @@ ul, ol {
 .container {
   max-width: 100%; }
 
+.command {
+  margin-top: 30px; }
+
+article.cards img {
+  max-width: 100%; }
+
 article.cards img.image {
-  width: 100%;
   margin-bottom: 7px; }
-
-article.cards img.image.person, article.cards img.image.theme {
-  max-width: 600px; }
-
-article.cards img.image.case {
-  max-width: 120px; }
-
-article.cards img.image.policy, article.cards img.image.issue {
-  max-width: 300px; }
 
 article.cards ul.lbox {
   width: 100%;
@@ -58,6 +54,8 @@ article.cards div.line {
 article.cards #info {
   float: left;
   margin-bottom: 50px; }
+  article.cards #info .info {
+    font-weight: bold; }
 
 @media screen and (max-width: 768px) {
   ul.cases.lbox li {

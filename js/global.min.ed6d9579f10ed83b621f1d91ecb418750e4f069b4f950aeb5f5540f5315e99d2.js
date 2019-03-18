@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",function(event){var menu=document.querySelector('.top-bar-left');document.querySelector('.site-hamburger').onclick=function(){console.log(menu.style.display);if(menu.style.display=='block'){menu.style.display='none';}else{menu.style.display='block';}}
+window.addEventListener('resize',function(){winWidth=window.innerWidth||document.documentElement.clientWidth;if(winWidth>=768&&menu.style.display=='none')menu.style.display='block';else if(winWidth<768&&menu.style.display=='block')menu.style.display='none';});});

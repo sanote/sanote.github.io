@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 윤새노트 웹툰뉴스</title>
-    <link>https://sanote.github.io/post/</link>
+    <link>https://www.yunsanote.com/post/</link>
     <description>Recent content in Posts on 윤새노트 웹툰뉴스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Fri, 15 Mar 2019 10:31:21 +0900</lastBuildDate>
     
-	<atom:link href="https://sanote.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.yunsanote.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>사이트 진행중입니다.</title>
-      <link>https://sanote.github.io/post/hello/</link>
+      <link>https://www.yunsanote.com/post/hello/</link>
       <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
       
-      <guid>https://sanote.github.io/post/hello/</guid>
+      <guid>https://www.yunsanote.com/post/hello/</guid>
       <description>사이트 개편중 입니다. ^^*
 아직 수많은 작업이 남아있으나 뭐가 급한지 몰라 그냥 오픈하고 작업합니다.
 카드 페이지를 좀더 깔끔하게 보여드리려고 자유롭게 사용가능한 페이지로 이동한 것이니 이해 부탁드려요. ^^*</description>

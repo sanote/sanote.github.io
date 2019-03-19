@@ -63,7 +63,7 @@ $( document ).ready(function() {
     selector: $("#search-by").get(0),
     /* source is the callback to perform the search */
     source: function(term, response) {
-        response(search(term));
+      response(search(term));
     },
     /* renderItem displays individual search results */
     renderItem: function(item, term) {

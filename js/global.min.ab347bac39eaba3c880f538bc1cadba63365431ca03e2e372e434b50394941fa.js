@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded",function(){var winWidth=window.innerWidth||document.documentElement.clientWidth;var menu=document.querySelector('.top-bar-left');document.querySelector('.site-hamburger').onclick=function(){console.log(menu.style.display);if(menu.style.display=='block'){menu.style.display='none';}else{menu.style.display='block';}}
+document.querySelector('.top-bar .search input').onfocus=function(){if(winWidth>=768)this.style.width="600px";}
+document.querySelector('.top-bar .search input').onblur=function(){if(winWidth>=768)this.style.width="";}
+window.addEventListener('resize',function(){winWidth=window.innerWidth||document.documentElement.clientWidth;if(winWidth>=768)menu.style.display='block';else if(winWidth<768)menu.style.display='none';});});

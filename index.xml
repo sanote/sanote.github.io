@@ -6,10 +6,19 @@
     <description>Recent content on 윤새노트 웹툰뉴스</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 15 Mar 2019 10:31:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 12:42:00 +0900</lastBuildDate>
     
 	<atom:link href="https://www.yunsanote.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>이재명(1964) - 인물카드</title>
+      <link>https://www.yunsanote.com/card/person/jaemyung/</link>
+      <pubDate>Tue, 19 Mar 2019 12:42:00 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/person/jaemyung/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2014년 논문 표절 | 검증불가 - 논란카드</title>
@@ -297,6 +306,15 @@
     </item>
     
     <item>
+      <title>손석형(1958) - 인물카드</title>
+      <link>https://www.yunsanote.com/card/person/sonsukyoung/</link>
+      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/person/sonsukyoung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>실시간 방송 - 정책카드</title>
       <link>https://www.yunsanote.com/card/policy/youtube/</link>
       <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
@@ -370,15 +388,6 @@ https://ko.wikipedia.org/wiki/이재명_(1964년)
       <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
       
       <guid>https://www.yunsanote.com/card/person/nakyun/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>이재명(1964) - 인물카드</title>
-      <link>https://www.yunsanote.com/card/person/jaemyung/</link>
-      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
-      
-      <guid>https://www.yunsanote.com/card/person/jaemyung/</guid>
       <description></description>
     </item>
     

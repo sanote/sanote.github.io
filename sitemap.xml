@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.yunsanote.com/card/person/jaemyung/</loc>
+    <lastmod>2019-03-19T12:42:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/issue/nonmun/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -199,6 +206,13 @@
   </url>
   
   <url>
+    <loc>https://www.yunsanote.com/card/person/sonsukyoung/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/policy/youtube/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -249,13 +263,6 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/person/nakyun/</loc>
-    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yunsanote.com/card/person/jaemyung/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -928,7 +935,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/</loc>
-    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <lastmod>2019-03-19T12:42:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -961,7 +968,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/</loc>
-    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <lastmod>2019-03-19T12:42:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

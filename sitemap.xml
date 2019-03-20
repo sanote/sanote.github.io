@@ -3,6 +3,97 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.yunsanote.com/card/party/pueonghwa/</loc>
+    <lastmod>2019-03-20T15:14:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/party/minjungdang/</loc>
+    <lastmod>2019-03-20T15:14:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/party/minju/</loc>
+    <lastmod>2019-03-20T14:14:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/party/jungui/</loc>
+    <lastmod>2019-03-20T14:13:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/party/jayu/</loc>
+    <lastmod>2019-03-20T14:12:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/party/aeguk/</loc>
+    <lastmod>2019-03-20T14:10:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/party/mirae/</loc>
+    <lastmod>2019-03-20T13:51:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/jungchi/</loc>
+    <lastmod>2019-03-20T13:48:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/jungdang/</loc>
+    <lastmod>2019-03-20T13:43:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/issue/alrilreo/</loc>
+    <lastmod>2019-03-20T13:34:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/person/yusimin/</loc>
+    <lastmod>2019-03-20T13:33:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/person/hongjunpyo/</loc>
+    <lastmod>2019-03-20T13:22:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/issue/hongcacola/</loc>
+    <lastmod>2019-03-20T13:20:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/person/jaemyung/</loc>
     <lastmod>2019-03-19T12:42:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,7 +108,7 @@
   </url>
   
   <url>
-    <loc>https://www.yunsanote.com/card/2019-by-election/</loc>
+    <loc>https://www.yunsanote.com/card/theme/2019-by-election/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -178,13 +269,6 @@
   </url>
   
   <url>
-    <loc>https://www.yunsanote.com/post/hello/</loc>
-    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yunsanote.com/card/policy/baby/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -242,6 +326,13 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/issue/wiki/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/post/hello/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -403,6 +494,13 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/policy/youthmoney/</loc>
+    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/policy/petitions/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -935,7 +1033,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/</loc>
-    <lastmod>2019-03-19T12:42:00+09:00</lastmod>
+    <lastmod>2019-03-20T15:14:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -968,7 +1066,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/</loc>
-    <lastmod>2019-03-19T12:42:00+09:00</lastmod>
+    <lastmod>2019-03-20T15:14:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

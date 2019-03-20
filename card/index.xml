@@ -1,15 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cards on 윤새노트 웹툰뉴스</title>
+    <title>Cards on 윤새노트 정공남녀</title>
     <link>https://www.yunsanote.com/card/</link>
-    <description>Recent content in Cards on 윤새노트 웹툰뉴스</description>
+    <description>Recent content in Cards on 윤새노트 정공남녀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 19 Mar 2019 12:42:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 15:14:21 +0900</lastBuildDate>
     
 	<atom:link href="https://www.yunsanote.com/card/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>민주평화당 - 정당카드</title>
+      <link>https://www.yunsanote.com/card/party/pueonghwa/</link>
+      <pubDate>Wed, 20 Mar 2019 15:14:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/party/pueonghwa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>민중당 - 정당카드</title>
+      <link>https://www.yunsanote.com/card/party/minjungdang/</link>
+      <pubDate>Wed, 20 Mar 2019 15:14:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/party/minjungdang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>더불어민주당 - 정당카드</title>
+      <link>https://www.yunsanote.com/card/party/minju/</link>
+      <pubDate>Wed, 20 Mar 2019 14:14:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/party/minju/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>정의당 - 정당카드</title>
+      <link>https://www.yunsanote.com/card/party/jungui/</link>
+      <pubDate>Wed, 20 Mar 2019 14:13:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/party/jungui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>자유한국당 - 정당카드</title>
+      <link>https://www.yunsanote.com/card/party/jayu/</link>
+      <pubDate>Wed, 20 Mar 2019 14:12:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/party/jayu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>대한애국당 - 정당카드</title>
+      <link>https://www.yunsanote.com/card/party/aeguk/</link>
+      <pubDate>Wed, 20 Mar 2019 14:10:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/party/aeguk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>바른미래당 - 정당카드</title>
+      <link>https://www.yunsanote.com/card/party/mirae/</link>
+      <pubDate>Wed, 20 Mar 2019 13:51:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/party/mirae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>정치언론(뉴스·방송) - 테마카드</title>
+      <link>https://www.yunsanote.com/card/theme/jungchi/</link>
+      <pubDate>Wed, 20 Mar 2019 13:48:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/theme/jungchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>정당 - 테마카드</title>
+      <link>https://www.yunsanote.com/card/theme/jungdang/</link>
+      <pubDate>Wed, 20 Mar 2019 13:43:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/theme/jungdang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>알릴레오 / 팟캐스트,유튜브 방송 - 논란카드</title>
+      <link>https://www.yunsanote.com/card/issue/alrilreo/</link>
+      <pubDate>Wed, 20 Mar 2019 13:34:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/issue/alrilreo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>유시민(1959) - 인물카드</title>
+      <link>https://www.yunsanote.com/card/person/yusimin/</link>
+      <pubDate>Wed, 20 Mar 2019 13:33:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/person/yusimin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>홍준표(1954) - 인물카드</title>
+      <link>https://www.yunsanote.com/card/person/hongjunpyo/</link>
+      <pubDate>Wed, 20 Mar 2019 13:22:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/person/hongjunpyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TV홍카콜라 / 유튜브 방송 - 논란카드</title>
+      <link>https://www.yunsanote.com/card/issue/hongcacola/</link>
+      <pubDate>Wed, 20 Mar 2019 13:20:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/issue/hongcacola/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>이재명(1964) - 인물카드</title>
@@ -37,10 +154,10 @@
     
     <item>
       <title>2019년 4.3. 보궐선거, 잘 판단해서 선택하자!! - 테마카드</title>
-      <link>https://www.yunsanote.com/card/2019-by-election/</link>
+      <link>https://www.yunsanote.com/card/theme/2019-by-election/</link>
       <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
       
-      <guid>https://www.yunsanote.com/card/2019-by-election/</guid>
+      <guid>https://www.yunsanote.com/card/theme/2019-by-election/</guid>
       <description>경상남도 창원과 통영 두 지역에서 국회의원 보궐선거가 치뤄진답니다.
 그리고 다른 세지역에서 지방의원 선거도 열려요. 잘 보고 판단 한 수 있도록 국회의원 분들의 정보를 찾아 올려보고자 해요. 예비후보 최종확정은 15일이니 확인되는 대로 수정해서 반영합니다. ㅎㅎ.
 중앙선거관리위원회 선거통계시스템
@@ -569,6 +686,15 @@ https://ko.wikipedia.org/wiki/이재명_(1964년)
       
       <guid>https://www.yunsanote.com/card/policy/youthmoney/</guid>
       <description>지자체 모든 청년들에게 분기별 25만원의 지역화폐 및 지역상품권을 제공하여 자유롭게 생활 및 활동을 할 수 있도록 하여 취업준비까지의 유도하고, 지역화폐가 다시 이용되어 지역경제를 활성화 할 수 있도록 두가지 장점을 취한 정책입니다.</description>
+    </item>
+    
+    <item>
+      <title>청와대 국민청원 - 정책카드</title>
+      <link>https://www.yunsanote.com/card/policy/petitions/</link>
+      <pubDate>Fri, 15 Mar 2019 10:31:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/policy/petitions/</guid>
+      <description></description>
     </item>
     
     <item>

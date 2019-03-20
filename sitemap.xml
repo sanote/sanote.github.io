@@ -3,6 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.yunsanote.com/card/theme/jungchi/</loc>
+    <lastmod>2019-03-20T16:45:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/jungdang/</loc>
+    <lastmod>2019-03-20T16:43:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/2019-by-election/</loc>
+    <lastmod>2019-03-20T16:31:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/party/pueonghwa/</loc>
     <lastmod>2019-03-20T15:14:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -52,20 +73,6 @@
   </url>
   
   <url>
-    <loc>https://www.yunsanote.com/card/theme/jungchi/</loc>
-    <lastmod>2019-03-20T13:48:21+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yunsanote.com/card/theme/jungdang/</loc>
-    <lastmod>2019-03-20T13:43:21+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://www.yunsanote.com/card/issue/alrilreo/</loc>
     <lastmod>2019-03-20T13:34:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -102,13 +109,6 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/issue/nonmun/</loc>
-    <lastmod>2019-03-15T10:31:21+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yunsanote.com/card/theme/2019-by-election/</loc>
     <lastmod>2019-03-15T10:31:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1033,7 +1033,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/</loc>
-    <lastmod>2019-03-20T15:14:21+09:00</lastmod>
+    <lastmod>2019-03-20T16:45:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -1066,7 +1066,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/</loc>
-    <lastmod>2019-03-20T15:14:21+09:00</lastmod>
+    <lastmod>2019-03-20T16:45:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

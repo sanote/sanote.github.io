@@ -67,7 +67,7 @@ $( document ).ready(function() {
     },
     /* renderItem displays individual search results */
     renderItem: function(item, term) {
-      var numContextWords = 2;
+      var numContextWords = 1;
       var text = item.content.match(
         "(?:\\s?(?:[\\w]+)\\s?){0,"+numContextWords+"}" +
         term+"(?:\\s?(?:[\\w]+)\\s?){0,"+numContextWords+"}");

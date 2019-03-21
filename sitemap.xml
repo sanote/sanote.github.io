@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.yunsanote.com/card/person/jongseo/</loc>
+    <lastmod>2019-03-21T17:33:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/theme/jungchi/</loc>
     <lastmod>2019-03-20T16:45:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1033,7 +1040,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/</loc>
-    <lastmod>2019-03-20T16:45:21+09:00</lastmod>
+    <lastmod>2019-03-21T17:33:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -1066,7 +1073,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/</loc>
-    <lastmod>2019-03-20T16:45:21+09:00</lastmod>
+    <lastmod>2019-03-21T17:33:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

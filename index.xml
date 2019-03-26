@@ -6,10 +6,22 @@
     <description>Recent content on 윤새노트 정공남녀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 25 Mar 2019 15:38:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 21:26:00 +0900</lastBuildDate>
     
 	<atom:link href="https://www.yunsanote.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>1화 2019 보궐선거</title>
+      <link>https://www.yunsanote.com/toon/s2_1/</link>
+      <pubDate>Tue, 26 Mar 2019 21:26:00 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/toon/s2_1/</guid>
+      <description>정치 공부하는 남녀로 윤새노트가 새롭게 돌아왔습니다. ^^* (아구 오글거려. ㅎㅎ)
+어쩌다가 2달가량 정치이야기를 듣다보니 많은 분들이 정치를 알아야 삶이 바뀌겠다는 걸 알았어요. 그런데 어렵잖아요. 그래서 손해보는 삶을 살지 않도록 많은 분들과 함께 공부해보려고요.
+쉬운 방법이 뭐 없을까 싶어 알아둘 키워드를 하나한 카드로 만들어가보려고 해요. 그리고 그 카드를 가지고 웹툰과 방송으로 이야기하다보면 언젠가 이해하고 손해보는 삶에서 벗어나지 않을까요?
+첫 편은 선거 이야기로 시작해봐요. 정치하고 생각해보니 대통령, 국회의원, 선거 정도 밖에 아는게 없더라고요.</description>
+    </item>
     
     <item>
       <title>토론능력 - 성향카드</title>
@@ -1809,6 +1821,15 @@ http://www.kpf.or.kr/site/kpf/research/selectMediaPdsView.do?seq=574323
       
       <guid>https://www.yunsanote.com/card/pledge/court/</guid>
       <description>2018년 권민호 경남도지사 예비후보 공약.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.yunsanote.com/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.yunsanote.com/login/</guid>
+      <description></description>
     </item>
     
   </channel>

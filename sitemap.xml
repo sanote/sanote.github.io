@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.yunsanote.com/toon/s2_1/</loc>
+    <lastmod>2019-03-26T21:26:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/case/discussion/</loc>
     <lastmod>2019-03-25T15:38:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1214,6 +1221,12 @@
   </url>
   
   <url>
+    <loc>https://www.yunsanote.com/login/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/</loc>
     <lastmod>2019-03-25T15:38:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1241,14 +1254,14 @@
   
   <url>
     <loc>https://www.yunsanote.com/toon/</loc>
-    <lastmod>2019-03-07T13:46:04+09:00</lastmod>
+    <lastmod>2019-03-26T21:26:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.yunsanote.com/</loc>
-    <lastmod>2019-03-25T15:38:21+09:00</lastmod>
+    <lastmod>2019-03-26T21:26:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

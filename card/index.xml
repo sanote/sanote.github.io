@@ -6,10 +6,20 @@
     <description>Recent content in Cards on 윤새노트 정공남녀</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 27 Mar 2019 17:52:21 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 09:29:21 +0900</lastBuildDate>
     
 	<atom:link href="https://www.yunsanote.com/card/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>후보 초청 토론회 - 테마카드</title>
+      <link>https://www.yunsanote.com/card/theme/discussion/</link>
+      <pubDate>Fri, 29 Mar 2019 09:29:21 +0900</pubDate>
+      
+      <guid>https://www.yunsanote.com/card/theme/discussion/</guid>
+      <description>우리 같은 일반인이 후보를 검증하는 방법은 유일하게 후보토론회 밖에 없다고 생각해요.
+뉴스, 기사, 신문, 유튜브, SNS 등은 단체나 개인의 주관적인 입장이 들어갈 수 밖에 없기에 정확한 정보를 전달하기 어렵고, 해당 후보고 말하고 싶은 바를 알 수 없으니까요. 또한 후보가 정말 일을 잘 할 수 있는지 여부는 후보의 모습을 보고 듣는 것이 정확하지 않을까요? 공약이나 선거지 등을 보고 판단하는 분들도 있으나 본인이 잘 알고 있는 공약인지 알 수 없지요. 정당에서 만들어 준 것일 수도 있고, 이미 쓰였던 공약 정보를 가져다 쓸 수도 있으니까요.</description>
+    </item>
     
     <item>
       <title>계수조정소위원회 임명 - 공약카드</title>
@@ -246,16 +256,6 @@
       
       <guid>https://www.yunsanote.com/card/theme/negative/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>후보 초청 토론회 - 테마카드</title>
-      <link>https://www.yunsanote.com/card/theme/discussion/</link>
-      <pubDate>Wed, 27 Mar 2019 14:38:21 +0900</pubDate>
-      
-      <guid>https://www.yunsanote.com/card/theme/discussion/</guid>
-      <description>우리 같은 일반인이 후보를 검증하는 방법은 유일하게 후보토론회 밖에 없다고 생각해요.
-뉴스, 기사, 신문, 유튜브, SNS 등은 단체나 개인의 주관적인 입장이 들어갈 수 밖에 없기에 정확한 정보를 전달하기 어렵고, 해당 후보고 말하고 싶은 바를 알 수 없으니까요. 또한 후보가 정말 일을 잘 할 수 있는지 여부는 후보의 모습을 보고 듣는 것이 정확하지 않을까요? 공약이나 선거지 등을 보고 판단하는 분들도 있으나 본인이 잘 알고 있는 공약인지 알 수 없지요. 정당에서 만들어 준 것일 수도 있고, 이미 쓰였던 공약 정보를 가져다 쓸 수도 있으니까요.</description>
     </item>
     
     <item>

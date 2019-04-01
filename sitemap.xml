@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.yunsanote.com/card/theme/national_election/</loc>
+    <lastmod>2019-04-01T16:43:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/president/</loc>
+    <lastmod>2019-04-01T16:40:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/person/rohmoohyun/</loc>
+    <lastmod>2019-04-01T16:11:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/person/leemyungbak/</loc>
+    <lastmod>2019-04-01T16:09:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/person/kimdaejoong/</loc>
+    <lastmod>2019-04-01T16:06:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/person/parkgeunhye/</loc>
+    <lastmod>2019-04-01T16:06:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/basic-income/</loc>
+    <lastmod>2019-04-01T13:52:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.yunsanote.com/card/pledge/basic_income/</loc>
     <lastmod>2019-04-01T13:47:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1445,7 +1494,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/</loc>
-    <lastmod>2019-04-01T13:47:21+09:00</lastmod>
+    <lastmod>2019-04-01T16:43:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -1478,7 +1527,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/</loc>
-    <lastmod>2019-04-01T13:47:21+09:00</lastmod>
+    <lastmod>2019-04-01T16:43:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

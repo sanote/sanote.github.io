@@ -1,0 +1,48 @@
+/* korean */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('NanumGothic'), url(//fonts.gstatic.com/s/nanumgothic/v5/l6D95h51ocAZakGcjUM0xOzt2j2cdCJff4F50jtiucc.woff2) format('woff2');
+  unicode-range: U+3131-318E, U+3200-321C, U+3260-327B, U+AC00-D7AF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 400;
+  src: local('NanumGothic'), url(//fonts.gstatic.com/s/nanumgothic/v5/l6D95h51ocAZakGcjUM0xOgdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+/* korean */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: local('NanumGothic Bold'), local('NanumGothic-Bold'), url(//fonts.gstatic.com/s/nanumgothic/v5/P5XmTawmZlSUXQlRuA1sCN3Je5MGCwFj-BXA2CKQFK4.woff2) format('woff2');
+  unicode-range: U+3131-318E, U+3200-321C, U+3260-327B, U+AC00-D7AF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 700;
+  src: local('NanumGothic Bold'), local('NanumGothic-Bold'), url(//fonts.gstatic.com/s/nanumgothic/v5/P5XmTawmZlSUXQlRuA1sCHNuWYKPzoeKl5tYj8yhly0.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
+/* korean */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 800;
+  src: local('NanumGothic ExtraBold'), local('NanumGothic-ExtraBold'), url(//fonts.gstatic.com/s/nanumgothic/v5/P5XmTawmZlSUXQlRuA1sCP8UUuwn0MoxqT4_PacKdes.woff2) format('woff2');
+  unicode-range: U+3131-318E, U+3200-321C, U+3260-327B, U+AC00-D7AF;
+}
+/* latin */
+@font-face {
+  font-family: 'Nanum Gothic';
+  font-style: normal;
+  font-weight: 800;
+  src: local('NanumGothic ExtraBold'), local('NanumGothic-ExtraBold'), url(//fonts.gstatic.com/s/nanumgothic/v5/P5XmTawmZlSUXQlRuA1sCBqoE9FO9sRveXk8Nnop4Zo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}

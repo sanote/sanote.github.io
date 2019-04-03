@@ -1,5 +1,33 @@
 [
   {
+    "uri": "https://www.yunsanote.com/card/",
+    "title": "# 정공카드",
+    "tags": [],
+    "description": "",
+    "content": ""
+  },
+  {
+    "uri": "https://www.yunsanote.com/toon/",
+    "title": "# 웹툰",
+    "tags": [],
+    "description": "",
+    "content": ""
+  },
+  {
+    "uri": "https://www.yunsanote.com/post/",
+    "title": "# 글정리",
+    "tags": [],
+    "description": "",
+    "content": ""
+  },
+  {
+    "uri": "https://www.yunsanote.com/search/",
+    "title": "# 정보검색",
+    "tags": [],
+    "description": "",
+    "content": ""
+  },
+  {
     "uri": "https://www.yunsanote.com/toon/s2_3/",
     "title": "3화 축구장 내 유세활동",
     "tags": [],
@@ -1491,20 +1519,6 @@
     "content": "이국종 교수와 경기도 간의 닥터헬기 적용에 대한 협약식이 있었습니다.\n경기도에는 아직 적용되지 못한 닥터헬기를 구매하고 효율적으로 이용할 수 있도록 하기 위한 회의 겸 협약진행이었는데요. 닥터헬기가 우리나라에서 효율적으로 사용되지 못하고 있다는 몇가지 문제점을 알 수 있었던 자리었습니다.\n닥터헬기는 우리나라에 총 6대가 적용되어 운영되고 있고 경기도가 7번째로 운영될 예정이라고 하네요. 이에 몇가지 문제를 이국종 교수가 직접 이야기 했는데요.\n첫번째, 인계점이라 하는 헬기라 내릴 수 있는 곳을 늘려달라는 것이었습니다. 해외는 이런 규정이 없는데 우리나라는 인계점이 아니면 내릴 수가 없다는 것이지요. 학교 운동장이나 관공서의 잔디밭이라도 착륙이 가능하다면 더 많은 사람을 살릴 수 있다는 것이지요. 경기도는 이제 이 곳에도 착륙이 가능해집니다.\n두번째, 24시간 운영을 할 수 있는 헬기를 구매해야 한다는 것이지요. 이 부분은 이미 2018년 초에 결정된 사항입니다.\n세번째, 주민들의 민원이 문제라고 하네요. 시끄럽다고 띄우지 말라는 말인데요. 앞으로는 닥터헬기, 소방헬기 모두 민원에 관계없이 다니게 됩니다.\n해외의 경우는 앰뷸런스보다 헬기가 더 빠른 대응이 가능하기에 더 많이 운영된다고 하네요. 땅이 좁아 우리나라는 헬기가 비효율적인거 아니냐? 라는 말도 있으나 오히려 촘촘하게 도시가 형성된 우리나라도 헬기가 더 유용하다고 합니다. 다만 비용이 만만치 않아 아직은 시기상조라는 말이 있기에 좀 더 지켜봐야 할 듯 싶네요.\n경상남도 창원과 통영 두 지역에서 국회의원 보궐선거가 치뤄진답니다.\n그리고 다른 세지역에서 지방의원 선거도 열려요. 잘 보고 판단 한 수 있도록 국회의원 분들의 정보를 찾아 올려보고자 해요. 예비후보 최종확정은 15일이니 확인되는 대로 수정해서 반영합니다. ㅎㅎ.\n"
   },
   {
-    "uri": "https://www.yunsanote.com/login/",
-    "title": "",
-    "tags": [],
-    "description": "",
-    "content": ""
-  },
-  {
-    "uri": "https://www.yunsanote.com/card/",
-    "title": "Cards",
-    "tags": [],
-    "description": "",
-    "content": ""
-  },
-  {
     "uri": "https://www.yunsanote.com/categories/",
     "title": "Categories",
     "tags": [],
@@ -1512,22 +1526,8 @@
     "content": ""
   },
   {
-    "uri": "https://www.yunsanote.com/post/",
-    "title": "Posts",
-    "tags": [],
-    "description": "",
-    "content": ""
-  },
-  {
     "uri": "https://www.yunsanote.com/tags/",
     "title": "Tags",
-    "tags": [],
-    "description": "",
-    "content": ""
-  },
-  {
-    "uri": "https://www.yunsanote.com/toon/",
-    "title": "Toons",
     "tags": [],
     "description": "",
     "content": ""

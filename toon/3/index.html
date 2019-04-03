@@ -32,7 +32,7 @@
     <link rel="canonical" href="https://www.yunsanote.com/toon/3/" />
     <link rel="shortcut icon" href="https://www.yunsanote.com/favicon.ico" type="image/x-icon" />
 
-    <link rel="stylesheet" href="https://www.yunsanote.com/scss/main.min.6a987924b60112c01e20ed545079bf73bd43581ecad516ca27d8732bbec282b6.css" />
+    <link rel="stylesheet" href="https://www.yunsanote.com/scss/main.min.fc7316491ca60ef88711c8819e515fa620cd656ac4d9437586c1d7acc26f37c4.css" />
     
 
     <script src="/js/jquery-2.x.min.js"></script>
@@ -49,32 +49,29 @@
   <header>
   <nav>
     <div class="top-bar container">
-      <a class="menu" href="javascript:;"><img src="/img/icon_menu.svg" alt="menu" /></a>
+      <a class="menu" href="javascript:;"><img src="/img/icon_menu.svg" alt="메뉴" /></a>
+      <a class="search" href="/search"><img src="/img/icon_search.svg" alt="검색" /></a>
       <div class="top-bar-title">
           <a href="https://www.yunsanote.com/">윤새노트 정공남녀</a>
-      </div>
-      <div class="search">
-        
-          <div class="searchbox">
-  <input data-search-input id="search-by" type="search" placeholder="검색하기">
-</div>
-
-<script type="text/javascript" src=/js/lunr.min.js></script>
-<script type="text/javascript" src=/js/auto-complete.js></script>
-<script type="text/javascript"> var baseurl = "https:\/\/www.yunsanote.com\/"; </script>
-<script type="text/javascript" src=/js/search.js></script>
-
-        
       </div>
     </div>
   </nav>
 </header>
 
+    
     <div class="main">
     
-<section class="section container">
-  <article class="toon">
-    <div class="title">
+<section class="section">
+  <div id="arctab" class="arctab">
+    <ul>
+      <li data-id="toon">웹툰</li>
+      <li data-id="info">설명</li>
+      <li data-id="reply">댓글</li>
+    </ul>
+  </div>
+         
+  <article class="toon container">
+    <div id="toon" class="title">
       <h2>혈세 지키기 프로젝트!</h2>
       <p>등록/수정: 2019년 1월 6일 5시 28분</p>
     </div>
@@ -212,46 +209,59 @@
 
     
     
-  <aside class="container">
-  <div class="top">
-    <a class="close" href="javascript:;"><img src="/img/icon_close.svg" alt="close" /></a>
+  <aside>
+  <div class="bg">
+    <div class="top">
+      <a class="close" href="javascript:;"><img src="/img/icon_close.svg" alt="close" /></a>
+    </div>
   </div>
-  <ul>
-    <li>
-      <a href="//www.youtube.com/user/yuanasanote" target="_blank">@YouTube</a>
-    </li>
-  </ul>
-  <ul>
-    
-    
-      
+  <div class="side container">
+    <ul>
       <li>
-        <a href="/card/">
-          
-          <span># 카드</span>
-        </a>
+        <a href="//www.youtube.com/user/yuanasanote" target="_blank">@YouTube</a>
       </li>
+    </ul>
+    <ul>
       
-    
       
-      <li>
-        <a href="/toon/">
-          
-          <span># 웹툰</span>
-        </a>
-      </li>
+        
+        <li>
+          <a href="/card/">
+            
+            <span># 정공카드</span>
+          </a>
+        </li>
+        
       
-    
+        
+        <li>
+          <a href="/toon/">
+            
+            <span># 웹툰</span>
+          </a>
+        </li>
+        
       
-      <li>
-        <a href="/post/">
-          
-          <span># 글정리</span>
-        </a>
-      </li>
+        
+        <li>
+          <a href="/post/">
+            
+            <span># 글정리</span>
+          </a>
+        </li>
+        
       
-    
-  </ul>
+        
+        <li>
+          <a href="/search/">
+            
+            <span># 정보검색</span>
+          </a>
+        </li>
+        
+      
+    </ul>
+  </div>
 </aside>
 
     </div>
@@ -271,7 +281,7 @@
     </script>
   </div>    
 
-  <div class="container">
+  <div id="reply" class="container">
     
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -292,6 +302,7 @@
 <a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
   </div>
 </div>
+
 
     
   <footer class="footer container">
@@ -322,5 +333,5 @@ if (!doNotTrack) {
 
   <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
 
-  <script>var m={fak:'AIzaSyCEBIW1vYB7Sd9Muf1JV5D-BJ5OenaYH1c'};</script><script type="text/javascript" src="https://www.yunsanote.com/js/bundle.min.e9b38da2f47b2a9256cd79213e24815b2d4e301ffaae93aa684ee56ba751ec22.js" integrity="sha256-6bONovR7KpJWzXkhPiSBWy1OMB/6rpOqaE7la6dR7CI="></script>
+  <script>var m={fak:'AIzaSyCEBIW1vYB7Sd9Muf1JV5D-BJ5OenaYH1c'};</script><script type="text/javascript" src="https://www.yunsanote.com/js/bundle.min.c4351337a07746dfaf6a60c294193d3bf121ba6605be1c318e948ef0f2dc09de.js" integrity="sha256-xDUTN6B3Rt&#43;vamDClBk9O/EhumYFvhwxjpSO8PLcCd4="></script>
 </html>

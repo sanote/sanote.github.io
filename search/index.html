@@ -32,10 +32,11 @@
     <link rel="canonical" href="https://www.yunsanote.com/search/" />
     <link rel="shortcut icon" href="https://www.yunsanote.com/favicon.ico" type="image/x-icon" />
 
-    <link rel="stylesheet" href="https://www.yunsanote.com/scss/main.min.f3c54ecfc6bdb110f9119633503b1a5d73c8a533809808ef318e70eadc63b19e.css" />
+    <link rel="stylesheet" href="https://www.yunsanote.com/scss/main.min.3b53e06eb614fe377633334c4daa582e6ba0ce4593e25ab01d5e8486345be11c.css" />
     <link rel="alternate" type="application/rss+xml" href="https://www.yunsanote.com/search/index.xml" title="윤새노트 정공남녀" />
 
-    <script src="/js/jquery-2.x.min.js"></script>  
+    <script src="/js/jquery-2.x.min.js"></script>
+    <script id="dsq-count-scr" src="//yunsanote.disqus.com/count.js" async></script>  
   </head>
   <body>
     
@@ -65,7 +66,7 @@
       <input id="search" type="search" placeholder="검색하기">
     </div>
 
-    <ul id="results"></ul><script type="text/javascript" src="https://www.yunsanote.com/js/search.min.221f38abb349c6b2f445369190c41591a96f779eaaa41d8a91e1a1f5c3321fdc.js" integrity="sha256-Ih84q7NJxrL0RTaRkMQVkalvd56qpB2KkeGh9cMyH9w="></script>
+    <ul id="results"></ul><script type="text/javascript" src="https://www.yunsanote.com/js/search.min.165ed8820408a088621164491ace60177483061f8825363223e0b1f9579cf665.js" integrity="sha256-Fl7YggQIoIhiEWRJGs5gF3SDBh&#43;IJTYyI&#43;Cx&#43;Vec9mU="></script>
   </div>
 </section>
 
@@ -151,8 +152,7 @@
 (function() {
   
   
-  
-  
+  if (window.location.hostname == "localhost") return;
 
   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
   var disqus_shortname = 'yunsanote';

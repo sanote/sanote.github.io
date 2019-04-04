@@ -32,10 +32,11 @@
     <link rel="canonical" href="https://www.yunsanote.com/toon/33/" />
     <link rel="shortcut icon" href="https://www.yunsanote.com/favicon.ico" type="image/x-icon" />
 
-    <link rel="stylesheet" href="https://www.yunsanote.com/scss/main.min.f3c54ecfc6bdb110f9119633503b1a5d73c8a533809808ef318e70eadc63b19e.css" />
+    <link rel="stylesheet" href="https://www.yunsanote.com/scss/main.min.3b53e06eb614fe377633334c4daa582e6ba0ce4593e25ab01d5e8486345be11c.css" />
     
 
     <script src="/js/jquery-2.x.min.js"></script>
+    <script id="dsq-count-scr" src="//yunsanote.disqus.com/count.js" async></script>
     <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({
@@ -66,7 +67,7 @@
     <ul>
       <li data-id="toon">웹툰</li>
       <li data-id="info">설명</li>
-      <li data-id="reply">댓글</li>
+      <li data-id="reply">댓글 <span class="disqus-comment-count" data-disqus-url="https://www.yunsanote.com/toon/33/">0</span></li>
     </ul>
   </div>
          
@@ -296,8 +297,7 @@
 (function() {
   
   
-  
-  
+  if (window.location.hostname == "localhost") return;
 
   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
   var disqus_shortname = 'yunsanote';

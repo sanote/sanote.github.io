@@ -28,18 +28,32 @@
     "content": ""
   },
   {
-    "uri": "https://www.yunsanote.com/card/theme/625/",
-    "title": "6.25전쟁 - 테마카드",
-    "tags": [],
-    "description": "",
-    "content": ""
-  },
-  {
     "uri": "https://www.yunsanote.com/card/theme/basic-income/",
     "title": "기본소득, 나를 알려줘! - 테마카드",
     "tags": [],
     "description": "",
     "content": " 기본 소득이란 무엇인가?\n 뉴스 읽어주는 남자- MC 박어사 1편\n 뉴스 읽어주는 남자- MC 박어사 2편\n    "
+  },
+  {
+    "uri": "https://www.yunsanote.com/card/theme/noticeboard/",
+    "title": "시사·정치 게시판 - 테마카드",
+    "tags": [],
+    "description": "",
+    "content": "대부분 젊은 층으로 이루어져 있으며 게시판 마다 성향이 뚜렷한 편이예요. 즐기는 목적으로 활동하는 경우가 많아 진솔한 정보보다 가쉽형의 글들이 많으며, 읽기 거북한 표현이 많아 공감대가 없는 신규층은 적응하기 힘든 경우도 있어요.\n대다수 회원제로 운영되기에 글쓰는 것에 제한이 있는 편이며, 읽기 조차 등급으로 제한되는 경우도 있어요.\n"
+  },
+  {
+    "uri": "https://www.yunsanote.com/card/theme/jungdang/",
+    "title": "정당 - 테마카드",
+    "tags": [],
+    "description": "",
+    "content": "국회의석 수를 보유한 정당을 볼 수 있어요.\n"
+  },
+  {
+    "uri": "https://www.yunsanote.com/card/theme/625/",
+    "title": "6.25전쟁 - 테마카드",
+    "tags": [],
+    "description": "",
+    "content": ""
   },
   {
     "uri": "https://www.yunsanote.com/card/person/yeoyeonggug/",
@@ -236,13 +250,6 @@
     "tags": [],
     "description": "",
     "content": ""
-  },
-  {
-    "uri": "https://www.yunsanote.com/card/theme/noticeboard/",
-    "title": "시사·정치 게시판 - 테마카드",
-    "tags": [],
-    "description": "",
-    "content": "대부분 젊은 층으로 이루어져 있으며 게시판 마다 성향이 뚜렷한 편이예요. 즐기는 목적으로 활동하는 경우가 많아 진솔한 정보보다 가쉽형의 글들이 많으며, 읽기 거북한 표현이 많아 공감대가 없는 신규층은 적응하기 힘든 경우도 있어요.\n대다수 회원제로 운영되기에 글쓰는 것에 제한이 있는 편이며, 읽기 조차 등급으로 제한되는 경우도 있어요.\n"
   },
   {
     "uri": "https://www.yunsanote.com/card/person/kimkwanyoung/",
@@ -558,13 +565,6 @@
     "tags": [],
     "description": "",
     "content": "이전에는 오로지 신문과 방송으로만 접할 수 있던 것이 정치나 시사 정보였으나 근래 들어 온라인이 활성화 되어 방송, 신문, 인터넷, 카페, 블로그, SNS, 메신저 등 수 많은 방법을 통해 정보를 얻을 수 있게 되었어요.\n방송과 신문으로 접할 때 까지는 오로지 언론이 진실이라 생각하며 믿었으나 이러한 정보가 성향 및 해석에 따라 달라진다는 것을 많은 시민들이 알게 됨으로써 자체적인 방송 및 컨텐츠를 만들어 SNS나 유튜브를 이용하여 자신들의 주관적인 정보를 전달하기도 하고, 소규모 인터넷 언론들도 등장하여 성향에 따른 정보도 전달되고 있어요.\n이러다 보니 진실인지 거짓인지, 어떠한 성향의 정보인지 확인하기 어려운 시민들은 알려주는 그대로 믿어버리는 과오들이 벌어지면서 이를 악용하는 가짜뉴스까지 퍼져나가고 있는 실정이랍니다.\n이로 인해 우리의 삶이 좌지우지되고 이를 막고자 많은 단체가 자발적으로 나서 시민운동을 벌이고 있으나 이 또한 진실한 단체와 가짜 정보를 이용한 돈벌이 수단으로 변질되는 단체들도 생겨나면서 우리나라의 언론 신뢰도는 세계적으로 하위건에 머무를 정도로 악순환이 되고 있어요.\n이제는 정치언론을 있는 그대로 받아들이지 말고 재대로 이해하고 봐야하는 바람직한 눈이 필요한 시기랍니다.\n"
-  },
-  {
-    "uri": "https://www.yunsanote.com/card/theme/jungdang/",
-    "title": "정당 - 테마카드",
-    "tags": [],
-    "description": "",
-    "content": "국회의석 수를 보유한 정당을 볼 수 있어요.\n"
   },
   {
     "uri": "https://www.yunsanote.com/card/party/pueonghwa/",

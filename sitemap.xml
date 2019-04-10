@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/card/</loc>
-    <lastmod>2019-04-05T13:13:21+09:00</lastmod>
+    <lastmod>2019-04-10T16:34:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -30,14 +30,28 @@
   </url>
   
   <url>
-    <loc>https://www.yunsanote.com/card/theme/625/</loc>
-    <lastmod>2019-04-05T13:13:21+09:00</lastmod>
+    <loc>https://www.yunsanote.com/card/theme/basic-income/</loc>
+    <lastmod>2019-04-10T16:34:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.yunsanote.com/card/theme/basic-income/</loc>
+    <loc>https://www.yunsanote.com/card/theme/noticeboard/</loc>
+    <lastmod>2019-04-10T16:34:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/jungdang/</loc>
+    <lastmod>2019-04-10T16:34:21+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.yunsanote.com/card/theme/625/</loc>
     <lastmod>2019-04-05T13:13:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -235,13 +249,6 @@
   <url>
     <loc>https://www.yunsanote.com/card/policy/tf/</loc>
     <lastmod>2019-03-27T17:22:21+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yunsanote.com/card/theme/noticeboard/</loc>
-    <lastmod>2019-03-27T17:19:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -557,13 +564,6 @@
   <url>
     <loc>https://www.yunsanote.com/card/theme/jungchi/</loc>
     <lastmod>2019-03-20T16:45:21+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.yunsanote.com/card/theme/jungdang/</loc>
-    <lastmod>2019-03-20T16:43:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1541,7 +1541,7 @@
   
   <url>
     <loc>https://www.yunsanote.com/</loc>
-    <lastmod>2019-04-05T13:13:21+09:00</lastmod>
+    <lastmod>2019-04-10T16:34:21+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
